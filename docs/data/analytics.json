@@ -1,0 +1,45 @@
+{
+  "lastUpdated": "2025-08-28T20:32:41.462Z",
+  "ownerType": "Organization",
+  "ownerInfo": {
+    "type": "Organization",
+    "name": "Doorway Test",
+    "login": "Doorway-Test",
+    "isPersonal": false
+  },
+  "metrics": {
+    "totalDiscussions": 0,
+    "avgResponseTime": "0h",
+    "resolutionRate": "0%",
+    "satisfactionScore": 4,
+    "activeContributors": 0
+  },
+  "trends": {
+    "discussions": {
+      "current": 0,
+      "trend": "",
+      "change": 0
+    },
+    "responseTime": {
+      "current": 0,
+      "trend": "",
+      "change": 0
+    },
+    "resolution": {
+      "current": 0,
+      "trend": "",
+      "change": 0
+    }
+  },
+  "charts": {
+    "discussionVolume": [],
+    "categories": [],
+    "resolutionStatus": {
+      "answered": 0,
+      "unanswered": 0
+    }
+  },
+  "owner": null,
+  "contributors": [],
+  "mostActiveDiscussions": []
+}

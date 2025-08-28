@@ -1,0 +1,50 @@
+{
+  "lastUpdated": "2025-08-28T20:32:41.664Z",
+  "totalCount": 0,
+  "discussions": [],
+  "categories": [
+    {
+      "id": "DIC_kwDOPmDM2s4CutsG",
+      "name": "Announcements",
+      "emoji": ":mega:",
+      "description": "Updates from maintainers"
+    },
+    {
+      "id": "DIC_kwDOPmDM2s4CutsH",
+      "name": "General",
+      "emoji": ":speech_balloon:",
+      "description": "Chat about anything and everything here"
+    },
+    {
+      "id": "DIC_kwDOPmDM2s4CutsJ",
+      "name": "Ideas",
+      "emoji": ":bulb:",
+      "description": "Share ideas for new features"
+    },
+    {
+      "id": "DIC_kwDOPmDM2s4CutsL",
+      "name": "Polls",
+      "emoji": ":ballot_box:",
+      "description": "Take a vote from the community"
+    },
+    {
+      "id": "DIC_kwDOPmDM2s4CutsI",
+      "name": "Q&A",
+      "emoji": ":pray:",
+      "description": "Ask the community for help"
+    },
+    {
+      "id": "DIC_kwDOPmDM2s4CutsK",
+      "name": "Show and tell",
+      "emoji": ":raised_hands:",
+      "description": "Show off something you've made"
+    }
+  ],
+  "categoryCounts": {},
+  "ownerType": "Organization",
+  "ownerInfo": {
+    "type": "Organization",
+    "name": "Doorway Test",
+    "login": "Doorway-Test"
+  }
+}
