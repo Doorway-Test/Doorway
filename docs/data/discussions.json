@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-08-28T20:32:41.664Z",
+  "lastUpdated": "2025-08-28T21:21:47.230Z",
   "totalCount": 0,
   "discussions": [],
   "categories": [
@@ -40,11 +40,5 @@
       "description": "Show off something you've made"
     }
   ],
-  "categoryCounts": {},
-  "ownerType": "Organization",
-  "ownerInfo": {
-    "type": "Organization",
-    "name": "Doorway Test",
-    "login": "Doorway-Test"
-  }
+  "categoryCounts": {}
 }

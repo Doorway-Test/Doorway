@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-08-28T20:32:41.462Z",
+  "lastUpdated": "2025-08-28T21:21:47.820Z",
   "ownerType": "Organization",
   "ownerInfo": {
     "type": "Organization",
@@ -11,7 +11,7 @@
     "totalDiscussions": 0,
     "avgResponseTime": "0h",
     "resolutionRate": "0%",
-    "satisfactionScore": 4,
+    "satisfactionScore": 4.2,
     "activeContributors": 0
   },
   "trends": {
@@ -32,14 +32,68 @@
     }
   },
   "charts": {
-    "discussionVolume": [],
+    "discussionVolume": [
+      {
+        "week": "2025-07-10",
+        "count": 0
+      },
+      {
+        "week": "2025-07-17",
+        "count": 0
+      },
+      {
+        "week": "2025-07-24",
+        "count": 0
+      },
+      {
+        "week": "2025-07-31",
+        "count": 0
+      },
+      {
+        "week": "2025-08-07",
+        "count": 0
+      },
+      {
+        "week": "2025-08-14",
+        "count": 0
+      },
+      {
+        "week": "2025-08-21",
+        "count": 0
+      },
+      {
+        "week": "2025-08-28",
+        "count": 0
+      }
+    ],
     "categories": [],
     "resolutionStatus": {
       "answered": 0,
       "unanswered": 0
     }
   },
-  "owner": null,
-  "contributors": [],
+  "owner": {
+    "type": "Organization",
+    "name": "Doorway Test",
+    "login": "Doorway-Test",
+    "totalMembers": 1,
+    "totalRepositories": 1,
+    "createdAt": "2025-08-27T20:27:07Z",
+    "topRepositories": [
+      {
+        "name": "Doorway",
+        "stars": 0,
+        "forks": 0,
+        "lastUpdate": "2025-08-28T20:32:42Z"
+      }
+    ]
+  },
+  "contributors": [
+    {
+      "login": "sachin-panayil",
+      "contributions": 2,
+      "avatar": "https://avatars.githubusercontent.com/u/79382140?v=4"
+    }
+  ],
   "mostActiveDiscussions": []
 }
